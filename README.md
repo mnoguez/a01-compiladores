@@ -1,3 +1,3 @@
 # a01-compiladores
 
-    Compilador simples em Java
+    Máquina de pilha em Java
