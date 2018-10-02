@@ -89,7 +89,7 @@ public class MaquinaDePilha {
                     break;
 
                 case "PRINT":
-                    System.out.println(pilha.pop());
+                    System.out.println(pilha.peek());
                     break;
             }
         }
